@@ -99,7 +99,7 @@
 
 ### 故事中的物联网流程图
 
-<img src="https://gitee.com/Kivykiwi/66666/raw/master/image-20250312110249819.png" alt="image-20250312110249819" style="zoom: 67%;" />
+<img src="../images/AI_Structure.png" alt="image-20250312110249819" style="zoom: 67%;" />
 
 ------
 
@@ -123,7 +123,7 @@
 
 **嘴巴**和**手机**也是对应的，都算**展示信息**的部分，类比于物联网中的**应用层**
 
-<img src="https://gitee.com/Kivykiwi/66666/raw/master/image-20250312110447309.png" alt="image-20250312110447309" style="zoom:67%;" />
+<img src="../images/IoT_People.png" alt="image-20250312110447309" style="zoom:67%;" />
 
 ------
 
